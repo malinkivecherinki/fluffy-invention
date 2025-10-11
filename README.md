@@ -1,12 +1,27 @@
-# fluffy-invention
+# Project
 
-A development project with various utilities and tools.
+## Update 21
 
-## Getting Started
+This project includes various utilities and tools.
 
-This project contains scripts, utilities, and small applications.
+### Features
 
+- Feature 21
+- Utility functions
+- Configuration management
 
-## Update 12
+### Installation
 
-Added new features and improvements in update 12.
+\`\`\`bash
+npm install
+\`\`\`
+
+### Usage
+
+\`\`\`javascript
+const utils = require('./src/utils');
+\`\`\`
+
+### Changelog
+
+- Update 21: Added new features and improvements
